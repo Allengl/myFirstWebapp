@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="bank.war">
+    <root id="archive" name="myFirsWebapp.war">
       <element id="artifact" artifact-name="myFirstWebapp:war exploded" />
     </root>
   </artifact>
